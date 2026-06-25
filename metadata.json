@@ -1,0 +1,6 @@
+{
+  "name": "Thống Kê Khám Sức Khỏe",
+  "description": "Ứng dụng nhập dữ liệu, thống kê và xuất Excel số liệu khám sức khỏe",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
